@@ -4,10 +4,10 @@
 
 В рамках данной работы мной был проведен ABC-анализ. В этот репозиторий для примера я включил:
 
-1. [Исходные данные](https://github.com/andron23/abc/blob/master/data.csv) (`csv` выгрузку из их программы автоматизации с информацией о продажах стиральных порошков)
-2. [Код для проведения многомерного ABC-анализа с помощью Pandas](https://github.com/andron23/abc/blob/master/abc.py)
-3. [График распределения порошков по группам ABC](https://github.com/andron23/abc/blob/master/treemap.png)
-4. [Бизнес-выводы и рекомендации](https://github.com/andron23/abc/blob/master/insights.md)
+1. [Исходные данные](https://github.com/uri-ivanov2008/abc/blob/main/data.csv) (`csv` выгрузку из их программы автоматизации с информацией о продажах стиральных порошков)
+2. [Код для проведения многомерного ABC-анализа с помощью Pandas](https://github.com/uri-ivanov2008/abc/blob/main/abc.py)
+3. [График распределения порошков по группам ABC](https://github.com/uri-ivanov2008/abc/blob/main/treemap.png)
+4. [Бизнес-выводы и рекомендации](https://github.com/uri-ivanov2008/abc/blob/main/insights.md)
 
 # Запуск скрипта
 
